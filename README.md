@@ -36,3 +36,6 @@ Put your email and password in pyapp.py file to get notified.
 **Step 3:**
 Run the pyapp.py file in terminal.
  
+ 
+## Screenshot
+![GitHub Logo](/screenshot.png)
